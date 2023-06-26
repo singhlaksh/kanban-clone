@@ -1,3 +1,14 @@
+# description 
+
+1. Cloning the Figma Design in React. 
+
+2. Implementing the Kanban functionality which allows users to drag cards between columns. For example, a user might drag the “Research” card from the “To Do” column to the top of the “On Progress” column. 
+
+3. Implementing responsive design techniques to ensure the application is beautiful and performant on mobile devices. 
+
+4. Deployed link to the website -   https://clonekd.netlify.app/
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
