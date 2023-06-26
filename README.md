@@ -1,4 +1,4 @@
-# description 
+# Description 
 
 1. Cloning the Figma Design in React. 
 
